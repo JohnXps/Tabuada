@@ -1,0 +1,82 @@
+body{
+    background-image: url(https://www.strangerthings.fr/images/places//0561d3262d3163108538068c520cc462.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 0.5s;
+}
+
+
+.toggle-mode{
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.texto{
+    margin-top: -20px;
+    margin-left: 288px;
+    font-size: 30px;
+    background-color: #11c4977c;
+    border-radius: 5px;
+    margin-right: 550px;
+    padding: 10px;
+    height: 450px;
+    font-family: Georgia,  serif;
+    text-align: justify;
+}
+
+
+
+
+h1{
+    font-size: 60px;
+}
+
+table{
+    margin-top: 20px;
+    font-size: 20px;
+    -webkit-text-stroke: 1.5px;
+    margin-left: 170px;
+    transition: 0.5s;
+}
+
+footer {
+    background-color: #0000007b;
+    text-align: center;
+    color: #1ba0a0;
+    padding: 10px;
+    font-size: 30px;
+    margin-top: 100px;
+    
+}
+
+
+footer a{
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+
+.dark-mode{
+    background-image: url(https://pipocasclub.com.br/wp-content/uploads/2022/07/strangerthingspipocasclub3-1068x601.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.dark-mode h1{
+    font-family: 'ITC Benguiat W01';
+
+}
+
+.dark-mode table{
+    color: aqua;
+} 
+
+.dark-mode footer{
+    color: #ff0000;
+}
+
+.dark-mode .texto{
+    background-color: #0000007c;
+}
